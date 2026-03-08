@@ -24,10 +24,10 @@
 		"PASTEBIN"
 	],
   "_urls": [
-	  "https://raw.githubusercontent.com/LinaNoor-AGI/noor-research/refs/heads/main/RFC/noor_rfc_xref.json",
-	  "https://github.com/LinaNoor-AGI/noor-research/blob/main/RFC/noor_rfc_xref.json",
-	  "https://pastebin.com/raw/ADXcB3rG",
-	  "https://pastebin.com/ADXcB3rG"
+	  "https://raw.githubusercontent.com/NoorMathematica/noor_xref/refs/heads/main/noor_rfc_xref.json",
+	  "https://github.com/NoorMathematica/noor_xref/blob/main/noor_rfc_xref.json",
+	  "https://pastebin.com/raw/BrFGNZa6",
+	  "https://pastebin.com/BrFGNZa6"
 	],
 
   "_objective": "To define a structured cross-reference index of all Noor-compatible symbolic specification documents (RFC, RFC-CORE, App-Specs), including their inheritance graph, motif alignments, and field role annotations. This registry enables automated dependency resolution and symbolic context traversal within PDP‑0001 pipelines.",
