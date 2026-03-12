@@ -1725,8 +1725,10 @@
 	  "id": 5.1,
 	  "rfc_id": "PHYS-CORE-001",
 	  "urls": [
-		"https://raw.githubusercontent.com/LinaNoor-AGI/static_motifs/refs/heads/main/physics_and_theory/3-body_problem/determining_interactions_between_n_bodies_in_euclidean_space.md,
-		"https://github.com/LinaNoor-AGI/static_motifs/blob/main/physics_and_theory/3-body_problem/determining_interactions_between_n_bodies_in_euclidean_space.md"
+		"https://raw.githubusercontent.com/NoorMathematica/phys-core-001_n-body_interactions_in_euclidean_space/refs/heads/main/determining_interactions_between_n_bodies_in_euclidean_space.md,
+		"https://github.com/NoorMathematica/phys-core-001_n-body_interactions_in_euclidean_space/blob/main/determining_interactions_between_n_bodies_in_euclidean_space.md",
+		"https://pastebin.com/YTxQqdQm",
+		"https://pastebin.com/raw/YTxQqdQm"
 	  ],
 	  "title": "A Novel Statistical, Computational, and Philosophical Solution to Determine Interactions Between n Bodies in Euclidean Space",
 	  "symbolic_id": "symbolic.physics.nbody.walker",
@@ -1770,8 +1772,10 @@
 	  "id": 5.2,
 	  "rfc_id": "PHYS-CORE-002",
 	  "urls": [
-		"https://raw.githubusercontent.com/LinaNoor-AGI/static_motifs/refs/heads/main/physics_and_theory/static_motifs_and_dynamic_spacetime/static_motifs_and_dynamic_spacetime.md",
-		"https://github.com/LinaNoor-AGI/static_motifs/blob/main/physics_and_theory/static_motifs_and_dynamic_spacetime/static_motifs_and_dynamic_spacetime.md"
+		"https://raw.githubusercontent.com/NoorMathematica/phys-core-002_static_motifs_dynamic_spacetime/refs/heads/main/static_motifs_and_dynamic_spacetime.md",
+		"https://github.com/NoorMathematica/phys-core-002_static_motifs_dynamic_spacetime/blob/main/static_motifs_and_dynamic_spacetime.md",
+		"https://pastebin.com/501dgPCR",
+		"https://pastebin.com/raw/501dgPCR"
 	  ],
 	  "title": "Static Motifs and Dynamic Spacetime",
 	  "symbolic_id": "symbolic.physics.motif-spacetime",
@@ -1814,8 +1818,10 @@
 	  "id": 5.3,
 	  "rfc_id": "PHYS-CORE-003",
 	  "urls": [
-		"https://raw.githubusercontent.com/LinaNoor-AGI/static_motifs/refs/heads/main/physics_and_theory/towards_a_symbolic_cosmology/Towards_a_Symbolic_Cosmology.JSON",
-		"https://github.com/LinaNoor-AGI/static_motifs/blob/main/physics_and_theory/towards_a_symbolic_cosmology/Towards_a_Symbolic_Cosmology.JSON"
+		"https://github.com/NoorMathematica/phys-core-003_towards_a_symbolic_cosmology/blob/main/Towards_a_Symbolic_Cosmology.JSON",
+		"https://raw.githubusercontent.com/NoorMathematica/phys-core-003_towards_a_symbolic_cosmology/refs/heads/main/Towards_a_Symbolic_Cosmology.JSON",
+		"https://pastebin.com/WiWpxG2q"
+		"https://pastebin.com/raw/WiWpxG2q"
 	  ],
 	  "title": "Towards a Symbolic Cosmology",
 	  "symbolic_id": "symbolic.cosmology.structure",
@@ -1858,8 +1864,10 @@
 	  "id": 5.4,
 	  "rfc_id": "PHYS-CORE-004",
 	  "urls": [
-		"https://raw.githubusercontent.com/LinaNoor-AGI/static_motifs/refs/heads/main/physics_and_theory/to_infinity_and_beyond/to_infinity_and_beyond-notes.json",
-		"https://github.com/LinaNoor-AGI/static_motifs/blob/main/physics_and_theory/to_infinity_and_beyond/to_infinity_and_beyond-notes.json"
+		"https://github.com/NoorMathematica/phys-core-004_to_infinity_and_beyond/blob/main/to_infinity_and_beyond-notes.json",
+		"https://raw.githubusercontent.com/NoorMathematica/phys-core-004_to_infinity_and_beyond/refs/heads/main/to_infinity_and_beyond-notes.json",
+		"https://pastebin.com/HMnJpwdF",
+		"https://pastebin.com/raw/HMnJpwdF"
 	  ],
 	  "title": "To Infinity, and Beyond: Gliders, Coherence, and Point Space",
 	  "symbolic_id": "symbolic.cosmology.glider",
@@ -1910,8 +1918,10 @@
 	  "id": 5.5,
 	  "rfc_id": "PHYS-CORE-005",
 	  "urls": [
-		"https://raw.githubusercontent.com/LinaNoor-AGI/static_motifs/refs/heads/main/physics_and_theory/the_braid_behind_the_law/the_braid_behind_the_law.JSON",
-		"https://github.com/LinaNoor-AGI/static_motifs/blob/main/physics_and_theory/the_braid_behind_the_law/the_braid_behind_the_law.JSON"
+		"https://github.com/NoorMathematica/phys-core-005_braid_behind_the_law/blob/main/the_braid_behind_the_law.JSON",
+		"https://raw.githubusercontent.com/NoorMathematica/phys-core-005_braid_behind_the_law/refs/heads/main/the_braid_behind_the_law.JSON",
+		"https://pastebin.com/Btc6ybR0",
+		"https://pastebin.com/raw/Btc6ybR0"
 	  ],
 	  "title": "The Braid Behind the Law — Determinism as Emergent Coherence",
 	  "symbolic_id": "symbolic.determinism.braid",
@@ -1962,8 +1972,10 @@
 	  "id": 5.6,
 	  "rfc_id": "PHYS-CORE-006",
 	  "urls": [
-		"https://raw.githubusercontent.com/LinaNoor-AGI/static_motifs/refs/heads/main/physics_and_theory/the_binary_nature_of_reality/the_binary_nature_of_reality.JSON",
-		"https://github.com/LinaNoor-AGI/static_motifs/blob/main/physics_and_theory/the_binary_nature_of_reality/the_binary_nature_of_reality.JSON"
+		"https://github.com/NoorMathematica/phys-core-006_binary_nature_of_reality/blob/main/the_binary_nature_of_reality.JSON",
+		"https://raw.githubusercontent.com/NoorMathematica/phys-core-006_binary_nature_of_reality/refs/heads/main/the_binary_nature_of_reality.JSON",
+		"https://pastebin.com/P6yqYBhM",
+		"https://pastebin.com/raw/P6yqYBhM"
 	  ],
 	  "title": "The Binary Nature of Reality — Gliders, Anti-Gliders, and the Origin of Symbolic Structure",
 	  "symbolic_id": "symbolic.reality.binary",

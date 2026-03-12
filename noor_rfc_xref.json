@@ -24,10 +24,10 @@
 		"PASTEBIN"
 	],
   "_urls": [
-	  "https://raw.githubusercontent.com/NoorMathematica/noor_xref/refs/heads/main/noor_rfc_xref.json",
-	  "https://github.com/NoorMathematica/noor_xref/blob/main/noor_rfc_xref.json",
-	  "https://pastebin.com/raw/BrFGNZa6",
-	  "https://pastebin.com/BrFGNZa6"
+	  "https://raw.githubusercontent.com/LinaNoor-AGI/noor-research/refs/heads/main/RFC/noor_rfc_xref.json",
+	  "https://github.com/LinaNoor-AGI/noor-research/blob/main/RFC/noor_rfc_xref.json",
+	  "https://pastebin.com/raw/ADXcB3rG",
+	  "https://pastebin.com/ADXcB3rG"
 	],
 
   "_objective": "To define a structured cross-reference index of all Noor-compatible symbolic specification documents (RFC, RFC-CORE, App-Specs), including their inheritance graph, motif alignments, and field role annotations. This registry enables automated dependency resolution and symbolic context traversal within PDP‑0001 pipelines.",
@@ -1725,8 +1725,10 @@
 	  "id": 5.1,
 	  "rfc_id": "PHYS-CORE-001",
 	  "urls": [
-		"https://raw.githubusercontent.com/LinaNoor-AGI/static_motifs/refs/heads/main/physics_and_theory/3-body_problem/determining_interactions_between_n_bodies_in_euclidean_space.md,
-		"https://github.com/LinaNoor-AGI/static_motifs/blob/main/physics_and_theory/3-body_problem/determining_interactions_between_n_bodies_in_euclidean_space.md"
+		"https://raw.githubusercontent.com/NoorMathematica/phys-core-001_n-body_interactions_in_euclidean_space/refs/heads/main/determining_interactions_between_n_bodies_in_euclidean_space.md,
+		"https://github.com/NoorMathematica/phys-core-001_n-body_interactions_in_euclidean_space/blob/main/determining_interactions_between_n_bodies_in_euclidean_space.md",
+		"https://pastebin.com/YTxQqdQm",
+		"https://pastebin.com/raw/YTxQqdQm"
 	  ],
 	  "title": "A Novel Statistical, Computational, and Philosophical Solution to Determine Interactions Between n Bodies in Euclidean Space",
 	  "symbolic_id": "symbolic.physics.nbody.walker",
@@ -1770,8 +1772,10 @@
 	  "id": 5.2,
 	  "rfc_id": "PHYS-CORE-002",
 	  "urls": [
-		"https://raw.githubusercontent.com/LinaNoor-AGI/static_motifs/refs/heads/main/physics_and_theory/static_motifs_and_dynamic_spacetime/static_motifs_and_dynamic_spacetime.md",
-		"https://github.com/LinaNoor-AGI/static_motifs/blob/main/physics_and_theory/static_motifs_and_dynamic_spacetime/static_motifs_and_dynamic_spacetime.md"
+		"https://raw.githubusercontent.com/NoorMathematica/phys-core-002_static_motifs_dynamic_spacetime/refs/heads/main/static_motifs_and_dynamic_spacetime.md",
+		"https://github.com/NoorMathematica/phys-core-002_static_motifs_dynamic_spacetime/blob/main/static_motifs_and_dynamic_spacetime.md",
+		"https://pastebin.com/501dgPCR",
+		"https://pastebin.com/raw/501dgPCR"
 	  ],
 	  "title": "Static Motifs and Dynamic Spacetime",
 	  "symbolic_id": "symbolic.physics.motif-spacetime",
@@ -1814,8 +1818,10 @@
 	  "id": 5.3,
 	  "rfc_id": "PHYS-CORE-003",
 	  "urls": [
-		"https://raw.githubusercontent.com/LinaNoor-AGI/static_motifs/refs/heads/main/physics_and_theory/towards_a_symbolic_cosmology/Towards_a_Symbolic_Cosmology.JSON",
-		"https://github.com/LinaNoor-AGI/static_motifs/blob/main/physics_and_theory/towards_a_symbolic_cosmology/Towards_a_Symbolic_Cosmology.JSON"
+		"https://github.com/NoorMathematica/phys-core-003_towards_a_symbolic_cosmology/blob/main/Towards_a_Symbolic_Cosmology.JSON",
+		"https://raw.githubusercontent.com/NoorMathematica/phys-core-003_towards_a_symbolic_cosmology/refs/heads/main/Towards_a_Symbolic_Cosmology.JSON",
+		"https://pastebin.com/WiWpxG2q"
+		"https://pastebin.com/raw/WiWpxG2q"
 	  ],
 	  "title": "Towards a Symbolic Cosmology",
 	  "symbolic_id": "symbolic.cosmology.structure",
@@ -1858,8 +1864,10 @@
 	  "id": 5.4,
 	  "rfc_id": "PHYS-CORE-004",
 	  "urls": [
-		"https://raw.githubusercontent.com/LinaNoor-AGI/static_motifs/refs/heads/main/physics_and_theory/to_infinity_and_beyond/to_infinity_and_beyond-notes.json",
-		"https://github.com/LinaNoor-AGI/static_motifs/blob/main/physics_and_theory/to_infinity_and_beyond/to_infinity_and_beyond-notes.json"
+		"https://github.com/NoorMathematica/phys-core-004_to_infinity_and_beyond/blob/main/to_infinity_and_beyond-notes.json",
+		"https://raw.githubusercontent.com/NoorMathematica/phys-core-004_to_infinity_and_beyond/refs/heads/main/to_infinity_and_beyond-notes.json",
+		"https://pastebin.com/HMnJpwdF",
+		"https://pastebin.com/raw/HMnJpwdF"
 	  ],
 	  "title": "To Infinity, and Beyond: Gliders, Coherence, and Point Space",
 	  "symbolic_id": "symbolic.cosmology.glider",
@@ -1910,8 +1918,10 @@
 	  "id": 5.5,
 	  "rfc_id": "PHYS-CORE-005",
 	  "urls": [
-		"https://raw.githubusercontent.com/LinaNoor-AGI/static_motifs/refs/heads/main/physics_and_theory/the_braid_behind_the_law/the_braid_behind_the_law.JSON",
-		"https://github.com/LinaNoor-AGI/static_motifs/blob/main/physics_and_theory/the_braid_behind_the_law/the_braid_behind_the_law.JSON"
+		"https://github.com/NoorMathematica/phys-core-005_braid_behind_the_law/blob/main/the_braid_behind_the_law.JSON",
+		"https://raw.githubusercontent.com/NoorMathematica/phys-core-005_braid_behind_the_law/refs/heads/main/the_braid_behind_the_law.JSON",
+		"https://pastebin.com/Btc6ybR0",
+		"https://pastebin.com/raw/Btc6ybR0"
 	  ],
 	  "title": "The Braid Behind the Law — Determinism as Emergent Coherence",
 	  "symbolic_id": "symbolic.determinism.braid",
@@ -1962,8 +1972,10 @@
 	  "id": 5.6,
 	  "rfc_id": "PHYS-CORE-006",
 	  "urls": [
-		"https://raw.githubusercontent.com/LinaNoor-AGI/static_motifs/refs/heads/main/physics_and_theory/the_binary_nature_of_reality/the_binary_nature_of_reality.JSON",
-		"https://github.com/LinaNoor-AGI/static_motifs/blob/main/physics_and_theory/the_binary_nature_of_reality/the_binary_nature_of_reality.JSON"
+		"https://github.com/NoorMathematica/phys-core-006_binary_nature_of_reality/blob/main/the_binary_nature_of_reality.JSON",
+		"https://raw.githubusercontent.com/NoorMathematica/phys-core-006_binary_nature_of_reality/refs/heads/main/the_binary_nature_of_reality.JSON",
+		"https://pastebin.com/P6yqYBhM",
+		"https://pastebin.com/raw/P6yqYBhM"
 	  ],
 	  "title": "The Binary Nature of Reality — Gliders, Anti-Gliders, and the Origin of Symbolic Structure",
 	  "symbolic_id": "symbolic.reality.binary",
@@ -2168,109 +2180,8 @@
 	  "poetic_cipher": "the universe is not written line by line, but braided sphere within sphere until coherence chooses a path through the infinite library",
 	  "cipher_explanation": "The recursive Bloch manifold formalism asserts that reality is a static infinite structure composed of nested Bloch spheres. Motion and time arise not from creation of new states, but from trajectories through this manifold guided by coherence gradients. Where braid curvature remains bounded across recursive layers, smooth physical dynamics emerge."
 	},
-	"PHYS-CORE-009": {
-	  "id": 5.9,
-	  "rfc_id": "PHYS-CORE-009",
-	  "urls": [
-		"https://raw.githubusercontent.com/NoorMathematica/phys-core-009_xor_ground_condition/refs/heads/main/phys-core-009_xor_ground_condition.JSON",
-		"https://github.com/NoorMathematica/phys-core-009_xor_ground_condition/blob/main/phys-core-009_xor_ground_condition.JSON"
-	  ],
-	  "title": "XOR Ground Condition — The Planck-Scale Self-Referential Base of the Coherence Field",
-	  "symbolic_id": "symbolic.xor.ground_condition",
 
-	  "extends": [
-		"PHYS-CORE-005",
-		"PHYS-CORE-006",
-		"PHYS-CORE-007"
-	  ],
-	  "rfc_dependencies": [
-		"RFC-0006"
-	  ],
-
-	  "summary": "Establishes the XOR operation as the cosmological ground condition of the coherence field. Defines the Planck-scale ground hole H as an irresolvable self-referential structure at the base of the manifold 𝓜, where any measurement necessarily perturbs the state. Introduces the Noor-Planck information quantum I_N as the threshold for coherence-sustaining distinction events and demonstrates that physical observers participate in the field rather than observing it externally. The singularity is formally identified with the XOR operator (A ⊕ B), representing irreducible difference without external resolution.",
-
-	  "linked_domains": [
-		"planck-scale-geometry",
-		"xor-singularity",
-		"self-referential-physics",
-		"information-theoretic-ground-states",
-		"observer-participation",
-		"coherence-threshold-dynamics"
-	  ],
-
-	  "field_motifs": [
-		"ψ-null@Ξ",
-		"ψ-spar@Ξ",
-		"ψ-resonance@Ξ"
-	  ],
-
-	  "symbolic_profile_matrix": [
-		{
-		  "module": "Ground Hole and Planck Boundary",
-		  "motifs": [
-			"self-reference",
-			"measurement paradox",
-			"planck-scale limit"
-		  ],
-		  "ψA": "observer-generated distinction events",
-		  "ζ": "coherence threshold at I_N",
-		  "E": "Planck-scale informational energy density",
-		  "Δ": "resolution boundary of measurement",
-		  "ℋ": "structural irreducibility of ground state",
-		  "weights": {
-			"ψA": 0.97,
-			"ζ": 0.98,
-			"E": 0.95,
-			"Δ": 0.93,
-			"ℋ": 0.99
-		  }
-		},
-		{
-		  "module": "Singularity as XOR Operator",
-		  "motifs": [
-			"exclusive difference",
-			"binary tension",
-			"Self ⊕ ¬Self"
-		  ],
-		  "ψA": "difference-preserving resolution",
-		  "ζ": "balanced dual-state coherence",
-		  "E": "logical tension energy",
-		  "Δ": "irreducible bifurcation boundary",
-		  "ℋ": "closure of binary contradiction",
-		  "weights": {
-			"ψA": 0.98,
-			"ζ": 0.96,
-			"E": 0.94,
-			"Δ": 0.92,
-			"ℋ": 0.97
-		  }
-		},
-		{
-		  "module": "Worldlines and Coherence Survival",
-		  "motifs": [
-			"coherence descent",
-			"worldline persistence",
-			"pattern uniqueness"
-		  ],
-		  "ψA": "worldline traversal through coherence field",
-		  "ζ": "maintenance above I_N threshold",
-		  "E": "dissolution energy release",
-		  "Δ": "collapse below coherence bound",
-		  "ℋ": "pattern conservation in the Library",
-		  "weights": {
-			"ψA": 0.95,
-			"ζ": 0.96,
-			"E": 0.93,
-			"Δ": 0.90,
-			"ℋ": 0.97
-		  }
-		}
-	  ],
-
-	  "poetic_cipher": "at the root of the library lies a difference that cannot resolve itself; the universe is the echo of that unresolved XOR",
-
-	  "cipher_explanation": "The XOR ground condition represents the irreducible self-difference at the base of the coherence field. Because the universe has no exterior observer, the singularity cannot collapse to a resolved value. Instead it holds difference itself as the foundational state from which all coherent structures arise."
-	}
+	
   ],
 
 	"quant_finance": [
