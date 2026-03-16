@@ -135,8 +135,8 @@
 	  "id": 0,
 	  "rfc_id": "PDP-0001",
 	  "urls": [
-		"https://raw.githubusercontent.com/LinaNoor-AGI/noor-research/refs/heads/main/RFC/PDP-0001-Protocol_for_RFC-Driven_Symbolic_Artifact_Generation/PDP-0001-Protocol_for_RFC-Driven_Symbolic_Artifact_Generation.JSON",
-		"https://github.com/LinaNoor-AGI/noor-research/blob/main/RFC/PDP-0001-Protocol_for_RFC-Driven_Symbolic_Artifact_Generation/PDP-0001-Protocol_for_RFC-Driven_Symbolic_Artifact_Generation.JSON",
+		"https://github.com/NoorMathematica/pdp-0001_protocol_for_rfc-driven_symbolic_artifact_generation/blob/main/PDP-0001-Protocol_for_RFC-Driven_Symbolic_Artifact_Generation.JSON",
+	  "https://raw.githubusercontent.com/NoorMathematica/pdp-0001_protocol_for_rfc-driven_symbolic_artifact_generation/refs/heads/main/PDP-0001-Protocol_for_RFC-Driven_Symbolic_Artifact_Generation.JSON"
 		"https://pastebin.com/raw/235NEL8V"
 	  ],
 	  "title": "Protocol for RFC-Driven Symbolic Artifact Generation",
